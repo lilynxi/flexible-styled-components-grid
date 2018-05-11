@@ -1,6 +1,6 @@
 {
   "homepage": "http://lilynxi.github.io/flexible-styled-components-grid",
-  "name": "react-styled-components-grid",
+  "name": "flexible-styled-components-grid",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
